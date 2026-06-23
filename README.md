@@ -1,6 +1,3 @@
-<!--   banner   -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:05070d,50:00e5ff,100:8b5cf6&height=190&section=header&text=Ashok%20GC%20(Ahsuu)&fontColor=ffffff&fontSize=44&desc=Robotics%20%26%20Mechatronics%20Engineer&descSize=18&descAlignY=62&animation=fadeIn"/>
-
 <p align="center">
   <a href="https://ashokgc.com.np"><img src="https://img.shields.io/badge/Portfolio-00e5ff?style=for-the-badge&logo=vercel&logoColor=black"></a>
   <a href="https://www.linkedin.com/in/ashok-gc"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
