@@ -16,7 +16,6 @@
 <td align="center">🎓<br><b>MSc @ Leeds</b><br><sub>Robotics & Mechatronics</sub></td>
 <td align="center">🤖<br><b>11+ Builds</b><br><sub>Full robotics stack</sub></td>
 <td align="center">🧠<br><b>97.9%</b><br><sub>CNN gait accuracy</sub></td>
-<td align="center">🏆<br><b>Best Thesis</b><br><sub>2023</sub></td>
 </tr></table>
 
 <h3 align="center">⚙️ &nbsp;Toolbox</h3>
